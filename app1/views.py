@@ -9,7 +9,7 @@ pagos = [
         'tasa': '12',
         'plazo' : '2',
         'cuotas': '659',
-        'totalPagar' : '15816'
+        'totalPagar' : '17360'
     }
 ]
 
