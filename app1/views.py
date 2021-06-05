@@ -26,7 +26,7 @@ def index(request):
 
         c = (monto*r)/(1-(1+r)**-n)
 
-        tp = monto + monto * r * n
+        tp = monto + ( (monto * r * n) * n)
 
         ctx = {
             'pagos' : pagos
